@@ -1,0 +1,9 @@
+.pListFilm{
+  margin-top: 2px;
+}
+.btnRefresh,
+.btnCancel,
+.btnEdit,
+.btnDelete {
+  margin: 2px;
+}
