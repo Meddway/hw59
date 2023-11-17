@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <AddFilmF filmName = ""/>
-      <Joke/>
+      <Joke value = ''/>
     </>
   );
 }
